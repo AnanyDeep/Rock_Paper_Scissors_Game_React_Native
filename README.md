@@ -2,7 +2,15 @@
 # Language Used :  React Native
 
 ### This is "Rock Paper Scissors" made with "React Native" which randomly shows the images of "⛰️" , "🧻" , "✂️".
-
+## Steps to download this project : 
+```
+STEP 1 : Click on "Code".
+STEP 2 : Click on download zip.
+STEP 3 : Extract the file.
+STEP 4 : Open cmd in the same folder.
+STEP 5 : Type "npm install" or "yarn install".
+STEP 6 : Type "npm start" or "yarn start".
+```
 ## Supported Platforms :-
 
 # Android
